@@ -5,6 +5,7 @@ Descrição do Projeto
 Este projeto consiste em um menu interativo que permite ao usuário escolher entre diversas estruturas de dados (vetores, matrizes, listas, pilhas e filas) e realizar operações básicas como inserção, remoção, exibição e busca de elementos. Além disso, inclui algoritmos de pesquisa (linear e binária) para encontrar valores nas estruturas escolhidas.
 
 --Como Rodar o Programa--
+
 Clone o repositório ou baixe o código fonte.
 
 Abra o projeto no Visual Studio ou no seu editor de preferência.
