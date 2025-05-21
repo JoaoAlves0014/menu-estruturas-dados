@@ -31,6 +31,7 @@ Menu Principal:
 5. Trabalhar com Pilha
 6. Algoritmos de Pesquisa
 7. Encerrar
+
 O usuário pode escolher uma das opções. Por exemplo, ao escolher "1. Vetores", será solicitado que o usuário insira um elemento no vetor.
 
 Após a inserção, é possível buscar o valor usando Busca Linear ou Busca Binária (para vetores e listas).
